@@ -1,0 +1,1 @@
+[11-Sep-2023 19:59:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kylep072_DMFci3'@'localhost' (using password: YES) in /home/kylep910/public_html/KeyforgeDecks/index.php on line 9

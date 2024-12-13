@@ -1,0 +1,8 @@
+[11-Sep-2023 19:59:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[16-Nov-2023 02:05:49 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[17-Feb-2024 21:21:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[20-May-2024 18:59:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[23-Aug-2024 01:12:54 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[26-Aug-2024 16:10:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[27-Nov-2024 07:44:54 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
+[30-Nov-2024 22:08:56 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'kylep072_6OuKGT'@'localhost' (using password: YES) in /home/kylep910/public_html/JeremyMolko/index.php on line 97
